@@ -10,7 +10,7 @@
     "coverage": "jest --coverage"
   },
   "dependencies": {
-    "@prismicio/client": "^6.4.3",
+    "@prismicio/client": "^6.6.3",
     "@prismicio/helpers": "^2.3.0",
     "@prismicio/next": "^0.1.2",
     "@prismicio/react": "^2.3.0",
@@ -20,7 +20,7 @@
     "prismic-dom": "^2.2.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-icons": "^4.2.0",
+    "react-icons": "^4.4.0",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
